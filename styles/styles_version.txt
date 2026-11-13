@@ -1,0 +1,7 @@
+styles obtained from
+master:
+https://github.com/raysan5/raygui/tree/master/styles
+commit:
+https://github.com/raysan5/raygui/tree/2a3c4790c6a887075ee192e44892916ed210c2e6/styles
+fetched 2026-11-11
+requires raylib raylib 6.x and raygui 5.x
